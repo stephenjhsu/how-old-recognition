@@ -1,5 +1,7 @@
 # How Old Recommendation (Image to Age Prediction)
 
+![Alt text](../presentation.jpg?raw=true "Presentation of How Old Recommendation")
+
 Creators: Akshay Tiwari, David Kes, Kishan Panchal, Stephen Hsu
 
 
